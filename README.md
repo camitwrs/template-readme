@@ -1,6 +1,6 @@
-<h1 align="center"><project-name></h1>
+<h1 align="center">TEMPLATE</h1>
 
-<p align="center"><project-description></p>
+<p align="center">TEMPLATE DESCRIPCION</p>
 
 ## Links
 
