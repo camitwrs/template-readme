@@ -36,6 +36,7 @@ Builds the app for production to the `build` folder. It correctly bundles React 
 ### `"npm run test": "react-scripts test"`,
 
 Launches the test runner in the interactive watch mode.
+** No sé **
 
 ### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
 
